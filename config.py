@@ -10,5 +10,5 @@ CHANNEL_LINK_2 = "https://t.me/+4qAekJfYfQRiNzdi"
 
 SUPPORT_USERNAME = "K0rgu"
 VPN_CONFIG = """
-vless://PUT_YOUR_VPN_HERE
+https://gist.githubusercontent.com/Darlene-Alderson-FSOCIETY/2b6bd8622af25a1da773d549937cf713/raw/CosmosVPN_Telegram_RE_s_B.txt
 """
